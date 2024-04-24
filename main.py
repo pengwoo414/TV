@@ -1,5 +1,5 @@
 try:
-    import user_config as config
+    import pw_config as config
 except ImportError:
     import config
 from selenium import webdriver
