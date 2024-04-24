@@ -1,26 +1,3 @@
-🐼 熊寶頻道,#genre#
-都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
-都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-都江堰壹玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-都江堰怡然,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-基地成年园 Ⅰ,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-基地成年园 Ⅱ,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
-基地幼年园 Ⅰ,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
-基地幼年园 Ⅱ,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
-基地幼儿园 Ⅰ,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
-基地幼儿园 Ⅱ,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
-基地母子园 Ⅰ,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
-基地母子园 Ⅱ,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
-基地别墅 Ⅰ,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-基地别墅 Ⅱ,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
-成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-都江堰高清,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
-
 央视频道,#genre#
 CCTV-1,http://14.117.233.245:9000/udp/239.77.0.188:5146
 CCTV-1,http://123.145.79.12:8001/udp/225.0.4.74:7980
