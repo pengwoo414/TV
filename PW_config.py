@@ -13,6 +13,6 @@ urls_limit = 10
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 15
-ipv_type = "ipv6"
+ipv_type = "all"
 domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
